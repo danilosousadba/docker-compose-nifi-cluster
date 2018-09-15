@@ -1,7 +1,7 @@
 # docker-compose-nifi-cluster
 A Docker Compose files to compose a NiFi cluster on Docker.
 
-The master branch uses the latest NiFi version (1.0).
+The master branch uses the latest NiFi version (1.7.1).
 For older version, use following branches:
 
 - [0.x](https://github.com/ijokarumawak/docker-compose-nifi-cluster/tree/0.x): NCM and 2 nodes cluster.
@@ -25,7 +25,7 @@ docker-compose version 1.8.0, build f3628c7
 
 ```Shell
 # Clone this repository
-$ git@github.com:ijokarumawak/docker-compose-nifi-cluster.git
+$ git@github.com:danilosousadba/docker-compose-nifi-cluster.git
 $ cd docker-compose-nifi-cluster
 
 # To start nifi cluster
@@ -58,7 +58,6 @@ $ docker-compose build
 
 ## Special thanks
 
-I used [mkobit/nifi](https://github.com/mkobit/docker-nifi) as a base image. Thanks for sharing the image and maintaining it up to date!
 
 ## Screen shot
 
