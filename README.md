@@ -1,4 +1,4 @@
-# docker-compose-nifi-cluster
+# Docker-Compose-Nifi-Cluster
 A Docker Compose files to compose a NiFi cluster on Docker.
 
 The master branch uses the latest NiFi version (1.7.1).
